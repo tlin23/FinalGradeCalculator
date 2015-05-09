@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinalGradeCalculator</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="enter_here">Enter Here</string>
+    <string name="grade_received">Grade</string>
+    <string name="worth">Worth</string>
+    <string name="final_worth">Your final is worth</string>
+    <string name="calculate">Calculate</string>
+</resources>
